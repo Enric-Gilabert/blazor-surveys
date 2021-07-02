@@ -1,6 +1,6 @@
 # blazor-surveys
 
-Example **.NET 5.0** application that explores integrating **SignalR** with a **Blazor WebAssembly** application, as well as some of the latest C# features like record types.
+Ejemplo **.NET 5.0** aplicacion que explora la integracion de **SignalR** con una aplicacion **Blazor WebAssembly**, asi como algunas de las ultimas novedades de C# como los tipos record.
 
 To do so, it implements a very simple site for creating and participating in surveys:
 
